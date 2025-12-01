@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "autoclick",
+  "version": "1.0.0",
+  "name": "Autoclick Mod",
+  "description": "Auto right-click every second",
+  "authors": ["you"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.autoclick.AutoclickClientMod"
+    ]
+  }
+}
